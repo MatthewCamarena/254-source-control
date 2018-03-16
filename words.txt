@@ -2,3 +2,5 @@ correct
 battery
 horse
 staple
+cool
+wow
